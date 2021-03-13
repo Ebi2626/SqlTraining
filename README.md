@@ -4,4 +4,4 @@ Repozytorium prezentuje zestaw zadań zrealizowanych w ramach uniwersyteckiego k
 
 Zadania są wykonywane na bazach Northwind i Library.
 
-Każde zadanie jest poprzedzone nadmiarowym użyciem "use" by można było wywoływać w wygodny sposób zapytania zarówno do bazy Northwind, jak i Library.
+Każde zadanie jest poprzedzone nadmiarowym użyciem "use" by można było wywoływać w wygodny sposób zapytania zarówno do bazy Northwind, jak i Library, bez przełączania baz na poziomie edytora.
